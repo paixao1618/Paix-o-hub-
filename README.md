@@ -11299,17 +11299,17 @@ spawn(function()
             elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709150401" then
                 Hop()
                 OrionLib:MakeNotification({
-                    Name = "Sla Hub",
+                    Name = "Paixao Hub",
                     Content = "Hop Server",
-                    Image = "rbxassetid://119980140458596",
+                    Image = "rbxassetid://15303590524",
                     Time = 5
                 })
             elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709149680" then
                 Hop()
                 OrionLib:MakeNotification({
-                    Name = "Sla Hub",
+                    Name = "Paixao Hub",
                     Content = "Hop Server",
-                    Image = "rbxassetid://119980140458596",
+                    Image = "rbxassetid://15303590524",
                     Time = 5
                 })
             else
