@@ -11283,17 +11283,17 @@ spawn(function()
             if game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709149052" or game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709149431" then
                 wait(2.0)
                 OrionLib:MakeNotification({
-                    Name = "Sla Hub",
+                    Name = "Paixao Hub",
                     Content = "Turn Off Hop Find Moon Please",
-                    Image = "rbxassetid://119980140458596",
+                    Image = "rbxassetid://15303590524",
                     Time = 5
                 })
             elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709143733" then
                 Hop()
                 OrionLib:MakeNotification({
-                    Name = "Sla Hub",
+                    Name = "Paixao Hub",
                     Content = "Hop Server",
-                    Image = "rbxassetid://119980140458596",
+                    Image = "rbxassetid://15303590524",
                     Time = 5
                 })
             elseif game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709150401" then
@@ -11320,9 +11320,9 @@ spawn(function()
     end)
 
 OrionLib:MakeNotification({
-        Name = "Sla Hub",
+        Name = "Paixao Hub",
         Content = "Loading script complete!, You can now enable the function!",
-        Image = "rbxassetid://119980140458596",
+        Image = "rbxassetid://15303590524",
         Time = 5
     })
 
@@ -11363,7 +11363,7 @@ end)
 OrionLib:Init()
 
 OrionLib:MakeNotification({
-    Name = "PaixÃ£o Hub",
+    Name = "Paixao Hub",
     Content = "Loading Config Complete!!",
     Image = "rbxassetid://rbxassetid://15303590524",
     Time = 2
